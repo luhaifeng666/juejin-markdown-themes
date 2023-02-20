@@ -167,6 +167,12 @@ const themes = {
     path: 'devui-blue.scss',
     ref: '2caac0c',
   },
+  'ultramarine': {
+    owner: 'luhaifeng666',
+    repo: 'juejin-markdown-theme-ultramarine',
+    path: 'ultramarine.scss',
+    ref: '212caa6'
+  }
 };
 
 export default themes;
